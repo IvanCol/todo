@@ -1,0 +1,18 @@
+.table {
+  margin-top: 10px;
+  display: inline-block;
+  padding: 3px;
+  margin: 2px;
+  .description {
+    margin: 2px;
+    display: flex;
+    justify-content: center;
+  }
+  &-img {
+    background-color: #000000;
+    display: block;
+    border-radius: 10px;
+    width: 100px;
+    height: 60px;
+  }
+}

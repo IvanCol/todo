@@ -1,0 +1,13 @@
+.infopanel {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  .container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 5px;
+    width: 600px;
+    background-color: #d3d0d0;
+  }
+}
